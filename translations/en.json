@@ -1,0 +1,194 @@
+{
+  "app": {
+    "title": "AI Notes",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "done": "Done",
+    "back": "Back",
+    "confirm": "Confirm",
+    "close": "Close"
+  },
+  "home": {
+    "title": "Notes",
+    "adjustSize": "Adjust size",
+    "emptyMessage": "No notes yet. Tap + to create one!",
+    "searchPlaceholder": "Search notes..."
+  },
+  "search": {
+    "title": "Search Notes",
+    "placeholder": "Enter title or content...",
+    "hint": "Enter keywords to search",
+    "noResults": "No results found",
+    "resultsCount": "Found {count} results"
+  },
+  "aiSearch": {
+    "title": "AI Search",
+    "reminderMode": "Reminders",
+    "searchMode": "Search",
+    "welcomeMessage": "I can help you search for notes using natural language.",
+    "reminderWelcome": "I can help you set reminders using natural language.",
+    "filterHeader": "Search Filters",
+    "resultsFound": "Found {count} results:",
+    "suggestionsTitle": "Search Suggestions:",
+    "noResults": "No notes match the filter. Please adjust the filter and try again!",
+    "instructions": "Instructions",
+    "placeholder": "Enter your search query...",
+    "reminderPlaceholder": "Enter reminder request...",
+    "searching": "Searching...",
+    "settingReminder": "Setting reminder...",
+    "suggestions": {
+      "meeting": "Find notes mentioning meeting",
+      "important": "My important notes",
+      "yesterday": "Notes written yesterday",
+      "work": "Find notes about work",
+      "deadline": "Notes containing deadline",
+      "thisWeek": "Notes this week",
+      "project": "Notes about project",
+      "incomplete": "Find incomplete notes"
+    }
+  },
+  "note": {
+    "title": "Note",
+    "newNote": "New Note",
+    "titlePlaceholder": "Note title...",
+    "contentPlaceholder": "Start writing...",
+    "lastModified": "Last modified: {date}",
+    "saveSuccess": "Note saved successfully",
+    "deleteSuccess": "Note deleted successfully",
+    "deleteConfirm": "Delete this note?",
+    "undo": "Undo",
+    "redo": "Redo"
+  },
+  "todo": {
+    "add": "Add Todo",
+    "edit": "Edit Todo",
+    "new": "New Todo",
+    "title": "Title",
+    "titlePlaceholder": "Enter todo title...",
+    "description": "Description",
+    "descriptionPlaceholder": "Enter detailed description...",
+    "priority": "Priority",
+    "priorityLow": "Low",
+    "priorityMedium": "Medium",
+    "priorityHigh": "High",
+    "dueDate": "Select due date (optional)",
+    "reminder": "Reminder",
+    "reminderSet": "Reminder set",
+    "reminderDetected": "Set Reminder?",
+    "reminderDetectedMessage": "I detected time in your todo:",
+    "completed": "Completed",
+    "incomplete": "Incomplete",
+    "deleteConfirm": "Delete this todo?",
+    "saveSuccess": "Todo saved successfully",
+    "deleteSuccess": "Todo deleted successfully"
+  },
+  "settings": {
+    "title": "Settings",
+    "premiumSection": "Service Plans",
+    "statsSection": "Statistics",
+    "uiSection": "Interface",
+    "aboutSection": "About App",
+    "dangerZone": "Danger Zone",
+    "aiSearchMethod": "AI Search Method",
+    "firebaseAiSearch": "Firebase AI Search",
+    "directGemini": "Direct Gemini",
+    "font": "Font",
+    "theme": "Theme",
+    "language": "Language",
+    "appName": "AI Notes",
+    "version": "Version 1.0.0",
+    "deleteAllNotes": "Delete All Notes",
+    "deleteAllConfirm": "Are you sure you want to delete all notes? This action cannot be undone!",
+    "totalNotes": "Total notes: {count}",
+    "totalTodos": "Total todos: {count}",
+    "completedTodos": "Completed: {count}"
+  },
+  "premium": {
+    "title": "Premium Plans",
+    "free": {
+      "name": "Free",
+      "description": "Free plan",
+      "features": {
+        "basicNotes": "Basic notes",
+        "basicTodos": "Basic todos",
+        "basicSearch": "Basic search"
+      }
+    },
+    "premium": {
+      "name": "Premium",
+      "description": "Buy once, use forever",
+      "features": {
+        "unlimitedNotes": "Unlimited notes",
+        "aiSearch": "AI Search",
+        "advancedFilters": "Advanced filters",
+        "customThemes": "Custom themes"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Monthly subscription",
+      "features": {
+        "everything": "Everything in Premium",
+        "prioritySupport": "Priority support",
+        "earlyAccess": "Early access to new features",
+        "cloudSync": "Cloud sync"
+      }
+    },
+    "upgrade": "Upgrade",
+    "current": "Current Plan",
+    "comparePlans": "Compare Plans"
+  },
+  "reminder": {
+    "title": "Reminders",
+    "noReminders": "No reminders set",
+    "setReminder": "Set Reminder",
+    "editReminder": "Edit Reminder",
+    "deleteReminder": "Delete Reminder",
+    "time": "Time",
+    "date": "Date",
+    "repeat": "Repeat",
+    "never": "Never",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly"
+  },
+  "filter": {
+    "title": "Filters",
+    "all": "All",
+    "notes": "Notes",
+    "todos": "Todos",
+    "completed": "Completed",
+    "incomplete": "Incomplete",
+    "priority": "Priority",
+    "date": "Date",
+    "clear": "Clear Filters",
+    "apply": "Apply"
+  },
+  "navigation": {
+    "home": "Home",
+    "search": "Search",
+    "aiSearch": "AI Search",
+    "settings": "Settings"
+  },
+  "errors": {
+    "generic": "An error occurred. Please try again.",
+    "network": "Network error. Please check your connection.",
+    "authentication": "Authentication error. Please log in again.",
+    "notFound": "Not found",
+    "permissionDenied": "Permission denied",
+    "timeout": "Request timeout. Please try again.",
+    "aiSearchFailed": "AI search failed. Please try again.",
+    "translationFailed": "Translation failed. Using default language."
+  },
+  "validation": {
+    "required": "This field is required",
+    "tooShort": "Too short",
+    "tooLong": "Too long",
+    "invalidFormat": "Invalid format"
+  }
+}
