@@ -11,7 +11,16 @@
     "done": "Done",
     "back": "Back",
     "confirm": "Confirm",
-    "close": "Close"
+    "close": "Close",
+    "features": {
+      "aiSearch": "AI Search for notes using natural language",
+      "reminders": "Quickly set reminders for notes with AI"
+    },
+    "aboutApp": {
+      "description": "AI Notes is a powerful note-taking app that leverages AI to enhance your productivity. With features like AI-powered search and reminder setting, managing your notes has never been easier.",
+      "developedBy": "Developed by Ngoc Duong",
+      "contact": "Contact: ngocduong1724@gmail.com"
+    }
   },
   "home": {
     "title": "Notes",
