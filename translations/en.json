@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "AI Notes",
+    "title": "Note App",
     "loading": "Loading...",
     "error": "Error",
     "success": "Success",
@@ -25,7 +25,7 @@
   "home": {
     "title": "Notes",
     "adjustSize": "Adjust size",
-    "emptyMessage": "No notes yet. Tap + to create one!",
+    "emptyMessage": "No notes yet. Type something to get started!",
     "searchPlaceholder": "Search notes...",
     "quickNotePlaceholder": "Are you tired? I'm here to listen..."
   },
@@ -200,5 +200,37 @@
     "tooShort": "Too short",
     "tooLong": "Too long",
     "invalidFormat": "Invalid format"
+  },
+  "onboarding": {
+    "skip": "Skip",
+    "next": "Next",
+    "start": "Start now",
+    "cta": "Continue to sign in",
+    "pages": {
+      "focus": {
+        "eyebrow": "Curated workspace",
+        "title": "Organize with quiet luxury",
+        "description": "Bespoke layouts, calm gradients, and AI that remembers the details for you.",
+        "pill1": "Elegant canvas",
+        "pill2": "Minimal clutter",
+        "pill3": "Offline friendly"
+      },
+      "ai": {
+        "eyebrow": "AI concierge",
+        "title": "Let AI find and refine",
+        "description": "Search every idea in natural language, translate or summarize instantly.",
+        "pill1": "Natural queries",
+        "pill2": "Smart translation",
+        "pill3": "Instant recall"
+      },
+      "reminders": {
+        "eyebrow": "Always on time",
+        "title": "Reminders that feel effortless",
+        "description": "Set deadlines in a sentence and let the app handle the details.",
+        "pill1": "One-tap due dates",
+        "pill2": "Signal over noise",
+        "pill3": "Sync across devices"
+      }
+    }
   }
 }
