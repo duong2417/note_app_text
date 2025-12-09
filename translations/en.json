@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "Note App",
+    "title": "AI quick note - simple and powerful",
     "loading": "Loading...",
     "error": "Error",
     "success": "Success",
@@ -25,7 +25,7 @@
   "home": {
     "title": "Notes",
     "adjustSize": "Adjust size",
-    "emptyMessage": "No notes yet. Type something to get started!",
+    "emptyMessage": "No notes yet!",
     "searchPlaceholder": "Search notes...",
     "quickNotePlaceholder": "Are you tired? I'm here to listen..."
   },
@@ -208,28 +208,16 @@
     "cta": "Continue to sign in",
     "pages": {
       "focus": {
-        "eyebrow": "Curated workspace",
-        "title": "Organize with quiet luxury",
-        "description": "Bespoke layouts, calm gradients, and AI that remembers the details for you.",
-        "pill1": "Elegant canvas",
-        "pill2": "Minimal clutter",
-        "pill3": "Offline friendly"
+        "title": "Lightweight by design",
+        "description": "A clean layout that keeps you focused. Fewer taps, clearer actions, and responsive animations that stay out of your way."
       },
       "ai": {
-        "eyebrow": "AI concierge",
-        "title": "Let AI find and refine",
-        "description": "Search every idea in natural language, translate or summarize instantly.",
-        "pill1": "Natural queries",
-        "pill2": "Smart translation",
-        "pill3": "Instant recall"
+        "title": "AI note search",
+        "description": "Search notes with natural language queries. AI understands what you mean, not just exact keywords."
       },
       "reminders": {
-        "eyebrow": "Always on time",
-        "title": "Reminders that feel effortless",
-        "description": "Set deadlines in a sentence and let the app handle the details.",
-        "pill1": "One-tap due dates",
-        "pill2": "Signal over noise",
-        "pill3": "Sync across devices"
+        "title": "AI quick reminders",
+        "description": "Tell AI what you need and it schedules reminders for you. No forms, no hassle—just clear, natural instructions."
       }
     }
   }
